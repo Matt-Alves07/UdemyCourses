@@ -1,0 +1,16 @@
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/bin/Debug/net5.0/Procedencia
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/bin/Debug/net5.0/Procedencia.deps.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/bin/Debug/net5.0/Procedencia.runtimeconfig.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/bin/Debug/net5.0/Procedencia.runtimeconfig.dev.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/bin/Debug/net5.0/Procedencia.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/bin/Debug/net5.0/ref/Procedencia.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/bin/Debug/net5.0/Procedencia.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/Procedencia.csproj.AssemblyReference.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/Procedencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/Procedencia.AssemblyInfoInputs.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/Procedencia.AssemblyInfo.cs
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/Procedencia.csproj.CoreCompileInputs.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/Procedencia.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/ref/Procedencia.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/Procedencia.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Procedencia/obj/Debug/net5.0/Procedencia.genruntimeconfig.cache

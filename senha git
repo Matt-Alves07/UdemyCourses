@@ -1,0 +1,6 @@
+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
+
+docker-compose exec "container" "lang"
+docker-compose exec db psql -U postgres -d "table"
+docker-compose exec db psql -U postgres -d email_sender -c "command"
+docker-compose exec db psql -U postgres -d email_sender -c "SELECT * FROM table"

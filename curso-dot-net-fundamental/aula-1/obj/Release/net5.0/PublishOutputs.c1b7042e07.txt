@@ -1,0 +1,5 @@
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/aula-1/bin/Release/net5.0/publish/HelloWorld
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/aula-1/bin/Release/net5.0/publish/HelloWorld.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/aula-1/bin/Release/net5.0/publish/HelloWorld.deps.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/aula-1/bin/Release/net5.0/publish/HelloWorld.runtimeconfig.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/aula-1/bin/Release/net5.0/publish/HelloWorld.pdb

@@ -1,0 +1,21 @@
+version: '3'
+services: 
+    db: 
+        image: mongo:3.4
+        ports:
+            - 27017:27017
+        environment:
+            - MONGODB_ROOT_PASSWORD=password123
+    backend:
+        image: node:8.1
+        volumes: 
+            - ./backend:/backend
+        ports:
+            - 3000:3000
+        command: bash -c "cd /backend && npm i && node app"
+    frontend:
+        image: nginx:1.13
+        volumes:
+            - ./frontend:/usr/share/nginx/html/
+        ports:
+            - 8000:80

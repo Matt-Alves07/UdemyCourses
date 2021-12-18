@@ -1,0 +1,16 @@
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/bin/Debug/net5.0/pesquisa-char
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/bin/Debug/net5.0/pesquisa-char.deps.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/bin/Debug/net5.0/pesquisa-char.runtimeconfig.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/bin/Debug/net5.0/pesquisa-char.runtimeconfig.dev.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/bin/Debug/net5.0/pesquisa-char.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/bin/Debug/net5.0/ref/pesquisa-char.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/bin/Debug/net5.0/pesquisa-char.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/pesquisa-char.csproj.AssemblyReference.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/pesquisa-char.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/pesquisa-char.AssemblyInfoInputs.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/pesquisa-char.AssemblyInfo.cs
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/pesquisa-char.csproj.CoreCompileInputs.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/pesquisa-char.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/ref/pesquisa-char.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/pesquisa-char.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/pesquisa-char/obj/Debug/net5.0/pesquisa-char.genruntimeconfig.cache

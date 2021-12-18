@@ -1,0 +1,15 @@
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/bin/Debug/net5.0/Assets.deps.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/bin/Debug/net5.0/Assets.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/bin/Debug/net5.0/ref/Assets.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/bin/Debug/net5.0/Assets.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/Assets.csproj.AssemblyReference.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/Assets.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/Assets.AssemblyInfoInputs.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/Assets.AssemblyInfo.cs
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/Assets.csproj.CoreCompileInputs.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/Assets.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/ref/Assets.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/Assets.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/bin/Debug/net5.0/Departments.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/bin/Debug/net5.0/Departments.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/assets/Libs/Assets/obj/Debug/net5.0/Assets.csproj.CopyComplete

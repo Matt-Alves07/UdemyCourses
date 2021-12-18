@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Assets/1.0.0": {
+        "dependencies": {
+          "Departments": "1.0.0"
+        },
+        "runtime": {
+          "Assets.dll": {}
+        }
+      },
+      "Departments/1.0.0": {
+        "runtime": {
+          "Departments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Departments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

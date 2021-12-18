@@ -1,0 +1,16 @@
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/bin/Debug/net5.0/Begginer
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/bin/Debug/net5.0/Begginer.deps.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/bin/Debug/net5.0/Begginer.runtimeconfig.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/bin/Debug/net5.0/Begginer.runtimeconfig.dev.json
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/bin/Debug/net5.0/Begginer.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/bin/Debug/net5.0/ref/Begginer.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/bin/Debug/net5.0/Begginer.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/Begginer.csproj.AssemblyReference.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/Begginer.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/Begginer.AssemblyInfoInputs.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/Begginer.AssemblyInfo.cs
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/Begginer.csproj.CoreCompileInputs.cache
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/Begginer.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/ref/Begginer.dll
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/Begginer.pdb
+/home/matheus/Área de trabalho/curso-dot-net-fundamental/parte-1/Begginer/obj/Debug/net5.0/Begginer.genruntimeconfig.cache

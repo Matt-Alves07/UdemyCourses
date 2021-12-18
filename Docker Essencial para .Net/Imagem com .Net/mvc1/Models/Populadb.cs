@@ -1,0 +1,35 @@
+using System.Linq;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+
+namespace mvc1.Models
+{
+    public class Populadb
+    {
+        public static void IncluiDadosDB(IApplicationBuilder app)
+        {
+            IncluiDadosDB(app.ApplicationServices.GetRequiredService<AppDbContext>());
+        }
+
+        public static void IncluiDadosDB(AppDbContext context)
+        {
+            System.Console.WriteLine("Starting Migrations....");
+            context.Database.Migrate();
+            if (!(context.Produtos.Any()))
+            {
+                System.Console.WriteLine("Creating data...");
+                context.Produtos.AddRange(
+                    new Produto("Luvas de goleiro", "Futebol", 25),
+                    new Produto("Bola de basquete", "Basquete", 48.95m),
+                    new Produto("Bola de Futebol", "Futebol", 19.50m),
+                    new Produto("Meias Grandes", "Futebol", 50),
+                    new Produto("Cesta para quadra", "Basquete", 29.95m)
+                );
+            } else
+            {
+                System.Console.WriteLine("Data already exists.");
+            }
+        }
+    }
+}
